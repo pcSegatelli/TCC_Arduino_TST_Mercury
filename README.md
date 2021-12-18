@@ -12,7 +12,7 @@ Diagrama de caso de uso:
 
 Diagrama de máquina:
 
-![Screenshot](diagrama de maq.png)
+![Screenshot](diagramaMAQ.png)
 
 Imagem do projeto todo:
 
