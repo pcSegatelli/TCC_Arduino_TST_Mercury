@@ -16,7 +16,7 @@ Diagrama de máquina:
 
 Imagem do projeto todo:
 
-![Screenshot](imagem do projeto.jpg)
+![Screenshot](imagemPROJETO.jpg)
 
 Segue a montagem dos componentes utilizados:
 
@@ -34,6 +34,6 @@ Circuito de Arduino e led:
 
 Circuito entre Arduino Uno, RFID e módulo SD:
 
-![Screenshot](sd e rfid.png)
+![Screenshot](sdrfid.png)
 
 ![Screenshot](ds1307.png)
